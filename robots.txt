@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /cheapest-ai-writing-tools.html
+Sitemap: https://aiwritingdeals.com/sitemap.xml
